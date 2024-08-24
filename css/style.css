@@ -33,7 +33,7 @@ a:focus {
 }
 
 .container-fluid {
-    max-width: 1366px;
+    max-width: 1800px;
 }
 
 .btn {
@@ -731,6 +731,7 @@ a:focus {
     width: 100%;
     margin: 45px 0;
     background: rgba(35, 161, 239, 0.95);
+    
 }
 
 .contact .container-fluid {
